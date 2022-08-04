@@ -13,7 +13,7 @@ global.APIKeys = {
 
 // EDIT THIS VALUES \\
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤 انا خدام دابا 😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -41,11 +41,11 @@ global.callblock === "false" // call block "true" / "false" (CALL ගන්න �
 global.owner = ['+15025470717']
 global.ownertag = '+15025470717' //your tag number
 global.premium = ['+15025470717'] //your premium numbers
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //your bot name
-global.packname = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker packname
+global.botname = '𝔽ℝ𝕀𝔻ℝ𝕀𝐊 𝔹𝕆𝕋' //your bot name
+global.packname = "𝔽ℝ𝕀𝔻ℝ𝕀𝐊 𝔹𝕆𝕋" // sticker packname
 global.author = "Bot Sticker" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //In list menu
+global.footer = '[ ◉ 𝐅𝐑𝐈𝐃𝐑𝐊 𝐁𝐎𝐓]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
@@ -56,14 +56,14 @@ global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
-    success: 'Done ✅',
+    success: 'تم ✅',
     admin: 'Only Admins can use it!😉',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈المرجو الانتضار...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
